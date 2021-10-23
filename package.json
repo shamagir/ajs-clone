@@ -1,0 +1,22 @@
+{
+  "name": "ajs-clone",
+  "version": "1.0.0",
+  "description": "ajs clone",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamagir/ajs-clone.git"
+  },
+  "author": "Shamagir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamagir/ajs-clone/issues"
+  },
+  "homepage": "https://github.com/shamagir/ajs-clone#readme",
+  "dependencies": {
+    "@shamagir/ajs": "^1.0.0"
+  }
+}
